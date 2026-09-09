@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+id progressBar
+id searchButton
+id searchInput
+id webView
+id youtubeButton
+layout activity_main
+string app_name
+string brave_search_label
+string empty_search_error
+string no_internet_error
+string search_failed_error
+string search_songs_hint
+string youtube_search_label
+style Theme.MyTube

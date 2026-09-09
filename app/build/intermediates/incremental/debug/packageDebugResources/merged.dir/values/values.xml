@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string name="app_name">MyTube</string>
+    <string name="brave_search_label">Brave Search</string>
+    <string name="empty_search_error">Please enter a song name.</string>
+    <string name="no_internet_error">No internet connection.</string>
+    <string name="search_failed_error">Search failed. Try again.</string>
+    <string name="search_songs_hint">Search songs...</string>
+    <string name="youtube_search_label">YouTube Search</string>
+    <style name="Theme.MyTube" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#3EA6FF</item>
+        <item name="colorPrimaryVariant">#1C7ED6</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <item name="colorSecondary">#3EA6FF</item>
+        <item name="colorSecondaryVariant">#1C7ED6</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        <item name="android:statusBarColor" ns1:targetApi="l">#121212</item>
+    </style>
+</resources>
