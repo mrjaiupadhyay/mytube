@@ -58,10 +58,6 @@ screenshots/
 └── player.png
 ```
 
-Example:
-
-![MyTube Home](screenshots/home.png)
-
 ## 🎯 Project Goals
 
 The main goal of MyTube is to demonstrate the development of a modern video-streaming application with:
